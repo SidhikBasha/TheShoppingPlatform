@@ -16,10 +16,14 @@ A static e-commerce homepage UI built using HTML and CSS.
 To practice real-world website layout and grid system design.
 
 ## 📸 Preview
-![Shopping Website](screenshot.png)
+![Uploading Screenshot 2026-04-26 212639.png…]()
+
 
 ## 🌐 Live Demo
 
+https://sidhikbasha.github.io/TheShoppingPlatform/
 
-## 
+## 👩🏻‍💻 Author
+
+Sidhik Basha | https://github.com/SidhikBasha
 
